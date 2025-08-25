@@ -2,13 +2,13 @@
 
 <p align="center">AI语音生成器通过TTS(文字生成语音)服务，快速生成自然流畅、多语言、多音色、不通语速的高质量语音，应用于配音、语音助手、有声读物等领域，支持Microsoft Azure TTS和OpenAI TTS等模型。</p>
 
-<p align="center"><a href="https://302.ai/tools/tts/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/19" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![界面预览](docs/语音生成器.png)
 
-来自[302.AI](https://302.ai)的[AI语音生成器](https://302.ai/tools/tts/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI语音生成器](https://302.ai/product/detail/19)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
 结合选择的音色、语种和倍速，根据输入的文本生成语音。

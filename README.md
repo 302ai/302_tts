@@ -2,13 +2,13 @@
 
 <p align="center">The AI voice generator, through the TTS (Text-to-Speech) service, quickly generates high-quality voices that are natural, fluent, multilingual, have multiple timbres and different speaking speeds. It is applied in fields such as dubbing, voice assistants, and audiobooks, and supports models like Microsoft Azure TTS and OpenAI TTS.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/tts/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/19" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![Interface Preview](docs/语音生成器en.png)
 
-Open-source version of the [AI Voice Generator](https://302.ai/en/tools/tts/) from [302.AI](https://302.ai/en/).
+Open-source version of the [AI Voice Generator](https://302.ai/product/detail/19) from [302.AI](https://302.ai/en/).
 You can directly log in to 302.AI for a zero-code, zero-configuration online experience.
 Alternatively, customize this project to suit your needs, integrate 302.AI's API KEY, and deploy it yourself.
 
